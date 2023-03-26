@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/pccoe_anantya_webbit_2k23/static/css/main.cca6179d.css",
-    "main.js": "/pccoe_anantya_webbit_2k23/static/js/main.364d8198.js",
+    "main.css": "/pccoe_anantya_webbit_2k23/static/css/main.70a30930.css",
+    "main.js": "/pccoe_anantya_webbit_2k23/static/js/main.1dd4d130.js",
+    "static/media/bank.jpg": "/pccoe_anantya_webbit_2k23/static/media/bank.99f08a00144cb77dd865.jpg",
+    "static/media/goa.jpg": "/pccoe_anantya_webbit_2k23/static/media/goa.0db34c639f8f1e2aeeed.jpg",
+    "static/media/kar.jpg": "/pccoe_anantya_webbit_2k23/static/media/kar.edf4caaacb80ffcdcb56.jpg",
+    "static/media/hleft.jpg": "/pccoe_anantya_webbit_2k23/static/media/hleft.f5b60cd9db7206ed9048.jpg",
     "index.html": "/pccoe_anantya_webbit_2k23/index.html",
-    "main.cca6179d.css.map": "/pccoe_anantya_webbit_2k23/static/css/main.cca6179d.css.map",
-    "main.364d8198.js.map": "/pccoe_anantya_webbit_2k23/static/js/main.364d8198.js.map"
+    "main.70a30930.css.map": "/pccoe_anantya_webbit_2k23/static/css/main.70a30930.css.map",
+    "main.1dd4d130.js.map": "/pccoe_anantya_webbit_2k23/static/js/main.1dd4d130.js.map"
   },
   "entrypoints": [
-    "static/css/main.cca6179d.css",
-    "static/js/main.364d8198.js"
+    "static/css/main.70a30930.css",
+    "static/js/main.1dd4d130.js"
   ]
 }

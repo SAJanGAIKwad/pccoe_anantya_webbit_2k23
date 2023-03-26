@@ -1,16 +1,13 @@
 {
   "files": {
     "main.css": "/pccoe_anantya_webbit_2k23.git/static/css/main.073c9b0a.css",
-    "main.js": "/pccoe_anantya_webbit_2k23.git/static/js/main.f6d15108.js",
-    "static/js/787.4ade2916.chunk.js": "/pccoe_anantya_webbit_2k23.git/static/js/787.4ade2916.chunk.js",
-    "static/media/logo.svg": "/pccoe_anantya_webbit_2k23.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/pccoe_anantya_webbit_2k23.git/static/js/main.364d8198.js",
     "index.html": "/pccoe_anantya_webbit_2k23.git/index.html",
     "main.073c9b0a.css.map": "/pccoe_anantya_webbit_2k23.git/static/css/main.073c9b0a.css.map",
-    "main.f6d15108.js.map": "/pccoe_anantya_webbit_2k23.git/static/js/main.f6d15108.js.map",
-    "787.4ade2916.chunk.js.map": "/pccoe_anantya_webbit_2k23.git/static/js/787.4ade2916.chunk.js.map"
+    "main.364d8198.js.map": "/pccoe_anantya_webbit_2k23.git/static/js/main.364d8198.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f6d15108.js"
+    "static/js/main.364d8198.js"
   ]
 }

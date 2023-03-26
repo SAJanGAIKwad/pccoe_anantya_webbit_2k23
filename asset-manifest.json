@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pccoe_anantya_webbit_2k23/static/css/main.073c9b0a.css",
+    "main.css": "/pccoe_anantya_webbit_2k23/static/css/main.56ce7246.css",
     "main.js": "/pccoe_anantya_webbit_2k23/static/js/main.364d8198.js",
     "index.html": "/pccoe_anantya_webbit_2k23/index.html",
-    "main.073c9b0a.css.map": "/pccoe_anantya_webbit_2k23/static/css/main.073c9b0a.css.map",
+    "main.56ce7246.css.map": "/pccoe_anantya_webbit_2k23/static/css/main.56ce7246.css.map",
     "main.364d8198.js.map": "/pccoe_anantya_webbit_2k23/static/js/main.364d8198.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
+    "static/css/main.56ce7246.css",
     "static/js/main.364d8198.js"
   ]
 }
